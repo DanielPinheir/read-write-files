@@ -1,0 +1,18 @@
+{
+  "name": "04",
+  "version": "1.0.0",
+  "description": "<hr> Implemente uma API REST de uma Loja Virtual que possibilite listar os produtos e realizar uma venda. <br> Os produtos disponíveis no sistema são: <br> ``` cosnt produtos = [     {id:1, nome: \"TV Sansung 4k\", valor: 129900},     {id:2, nome: \"Notebook Dell\", valor: 399990},     {id:3, nome: \"Mouse MX Master 3\", valor: 23000},     {id:4, nome: \"Teclado Keychron K8\", valor: 50000},     {id:5, nome: \"Cabo USB 2 metros\", valor: 1990},     {id:6, nome: \"Carregador portátil\", valor: 4590},     {id:7, nome: \"Webcam C920s\", valor: 80000},     {id:8, nome: \"Monitor LG 29 FHD\", valor: 129900}, ] ``` - A rota `GET /produtos` deverá retornar a listagem de produtos disponíveis. <br> - A rota `POST /produtos` deverá registrar uma venda num arquivo `JSON`seguindo o seguinte formato:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

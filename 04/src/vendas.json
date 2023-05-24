@@ -1,0 +1,36 @@
+{
+  "vendas": [
+    {
+      "produto": { "id": 1, "nome": "TV Sansung 4k", "valor": 129900 },
+      "quantidade": 5
+    },
+    {
+      "produto": { "id": 1, "nome": "TV Sansung 4k", "valor": 129900 },
+      "quantidade": 5
+    },
+    {
+      "produto": { "id": 1, "nome": "TV Sansung 4k", "valor": 129900 },
+      "quantidade": 5
+    },
+    {
+      "produto": { "id": 1, "nome": "TV Sansung 4k", "valor": 129900 },
+      "quantidade": 5
+    },
+    {
+      "produto": { "id": 1, "nome": "TV Sansung 4k", "valor": 129900 },
+      "quantidade": 5
+    },
+    {
+      "produto": { "id": 1, "nome": "TV Sansung 4k", "valor": 129900 },
+      "quantidade": 5
+    },
+    {
+      "produto": { "id": 1, "nome": "TV Sansung 4k", "valor": 129900 },
+      "quantidade": 5
+    },
+    {
+      "produto": { "id": 7, "nome": "Webcam C920s", "valor": 80000 },
+      "quantidade": 2
+    }
+  ]
+}
